@@ -1,0 +1,2 @@
+- O algoritmo Random Forest apresenta resultado melhor se inicialmente se encontram as variáveis mais relevantes. Para isso, podemos aplicar PCA ou SVD na matriz de dados
+e selecionar as variáveis mais relevantes
