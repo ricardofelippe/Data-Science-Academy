@@ -20,24 +20,24 @@ Para criar uma variável de ambiente, deve-se abrir a caixa de Variáveis de Amb
 ![variaveis_ambiente.png](./Imagens/variaveis_ambiente.png)
 
 
-# JDK
+## JDK
 JAVA_HOME = C:\Java\jdk-11.0.3
 PATH = C:\Java\jdk-11.0.3\bin
 
-# Spark
+## Spark
 SPARK_HOME = C:\spark
 PATH = C:\spark\bin
 PYSPARK_DRIVER_PYTHON = jupyter
 PYSPARK_DRIVER_PYTHON_OPTS = notebook
 PYSPARK_PYTHON = python3
 
-# Wintools 64 bits:
+## Wintools 64 bits:
 https://github.com/steveloughran/winutils/tree/master/hadoop-2.7.1/bin
 
-# Wintools 32 bits:
+## Wintools 32 bits:
 https://drive.google.com/file/d/0B4PlPwU6yGTNT2FBdl9nTGNGOFk/view
 
-# Permissão
+## Permissão
 Crie o diretório C:\tmp\hive
 Abra o prompt e digite: C:\Hadoop\bin\winutils.exe chmod -R 777 C:\tmp\hive
 
