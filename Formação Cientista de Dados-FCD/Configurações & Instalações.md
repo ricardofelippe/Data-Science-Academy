@@ -22,8 +22,8 @@ Para criar uma variável de ambiente, deve-se abrir a caixa de Variáveis de Amb
  
  
 ## JDK
-JAVA_HOME = C:\Java\jdk-11.0.3 
-PATH = C:\Java\jdk-11.0.3\bin 
+JAVA_HOME = C:\Java\jdk-11.0.3  
+PATH = C:\Java\jdk-11.0.3\bin   
 
 ## Spark
 SPARK_HOME = C:\spark
