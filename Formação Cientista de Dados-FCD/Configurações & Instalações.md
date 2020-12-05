@@ -18,7 +18,8 @@
 - A variável PATH indica onde estão os executáveis.
 
 Para criar uma variável de ambiente, deve-se abrir a caixa de Variáveis de Ambiente:
-![java_topolista](./Imagens/java_topolista.png)"}
+![](./Imagens/variaveis_ambiente.png)
+
 
  
  
@@ -26,8 +27,8 @@ Para criar uma variável de ambiente, deve-se abrir a caixa de Variáveis de Amb
 
 JAVA_HOME = C:\Java\jdk-11.0.3  
 PATH = C:\Java\jdk-11.0.3\bin   
-- Ao inserir o PATH, a variável java tem q ser posicionada no topo da lista
-![](./Imagens/variaveis_ambiente.png)"}
+- Ao inserir o PATH, a variável java tem q ser posicionada no topo da lista  
+![java_topolista](./Imagens/java_topolista.png)
 
 
 ## Spark
