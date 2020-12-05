@@ -11,4 +11,4 @@
 - Caso queira experimentar o Linux em um ambiente Windows, uma possibilidade é instalar uma máquina virtual 
 [![78ad0e41-a781-4a99-abbb-172dcfd4a2f3.gif](https://i.postimg.cc/L6RgHc4d/78ad0e41-a781-4a99-abbb-172dcfd4a2f3.gif)](https://postimg.cc/14C3BYNM)
 
-![image info](./Saved Pictures/Capturar.png)
+![image info](./Saved Pictures/Capturar.PNG)
