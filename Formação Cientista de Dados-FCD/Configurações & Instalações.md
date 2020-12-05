@@ -9,3 +9,5 @@
 
 ##  Como preparar um Ambiente Virtual para Desenvolvimento em Data Science
 - Caso queira experimentar o Linux em um ambiente Windows, uma possibilidade é instalar uma máquina virtual 
+https://postimg.cc/14C3BYNM
+
