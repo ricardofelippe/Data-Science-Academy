@@ -19,7 +19,7 @@
 Para criar uma variável de ambiente, deve-se abrir a caixa de Variáveis de Ambiente:
 ![](./Imagens/variaveis_ambiente.png)
 
-<a href=""><img src=./Imagens/variaveis_ambiente.png  height="200" width="200" ></a> 
+<a href=""><img src=./Imagens/variaveis_ambiente.png  height="400" width="400" ></a> 
  
  
 ## JDK
