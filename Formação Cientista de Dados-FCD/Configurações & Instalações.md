@@ -17,9 +17,9 @@
 - Quando o programa não inserir automaticamente o caminho do executável, tem-se que inserir manualmente.
 
 Para criar uma variável de ambiente, deve-se abrir a caixa de Variáveis de Ambiente:
-![variaveis_ambiente](./Imagens/variaveis_ambiente.png){:height="36px" width="36px"}
+![variaveis_ambiente](./Imagens/variaveis_ambiente.png)"}
 
-![](./Imagens/teste_500x400.png){:height="36px" width="36px"}
+![](./Imagens/teste_500x400.png)
  
  
 ## JDK
