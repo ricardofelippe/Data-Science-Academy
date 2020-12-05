@@ -18,6 +18,9 @@
 
 Para criar uma variável de ambiente, deve-se abrir a caixa de Variáveis de Ambiente:
 ![](./Imagens/variaveis_ambiente.png)
+
+<a href=""><img src=./Imagens/variaveis_ambiente.png align="left" height="48" width="48" ></a> 
+ 
  
 ## JDK
 JAVA_HOME = C:\Java\jdk-11.0.3
