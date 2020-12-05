@@ -9,7 +9,6 @@
 
 ##  Como preparar um Ambiente Virtual para Desenvolvimento em Data Science
 - Caso queira experimentar o Linux em um ambiente Windows, uma possibilidade é instalar uma máquina virtual 
-[![78ad0e41-a781-4a99-abbb-172dcfd4a2f3.gif](https://i.postimg.cc/L6RgHc4d/78ad0e41-a781-4a99-abbb-172dcfd4a2f3.gif)](https://postimg.cc/14C3BYNM)
 
 
 ##  Variáveis de Ambiente: Edição
@@ -35,10 +34,10 @@ PATH = C:\Java\jdk-11.0.3\bin
 SPARK_HOME = C:\spark   
 PATH = C:\spark\bin   
 PYSPARK_DRIVER_PYTHON = jupyter  
-PYSPARK_DRIVER_PYTHON_OPTS = notebook 
-PYSPARK_PYTHON = python3 
+PYSPARK_DRIVER_PYTHON_OPTS = notebook   
+PYSPARK_PYTHON = python3   
 
-## Wintools 64 bits:
+## Wintools 64 bits:(ferramenta que fornece privilégios em uma pasta)
 https://github.com/steveloughran/winutils/tree/master/hadoop-2.7.1/bin 
 
 ## Wintools 32 bits:
