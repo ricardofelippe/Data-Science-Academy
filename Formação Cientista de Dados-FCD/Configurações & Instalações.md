@@ -26,9 +26,9 @@ JAVA_HOME = C:\Java\jdk-11.0.3
 PATH = C:\Java\jdk-11.0.3\bin   
 
 ## Spark
-SPARK_HOME = C:\spark 
-PATH = C:\spark\bin 
-PYSPARK_DRIVER_PYTHON = jupyter 
+SPARK_HOME = C:\spark   
+PATH = C:\spark\bin   
+PYSPARK_DRIVER_PYTHON = jupyter  
 PYSPARK_DRIVER_PYTHON_OPTS = notebook 
 PYSPARK_PYTHON = python3 
 
