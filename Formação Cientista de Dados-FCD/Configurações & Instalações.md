@@ -15,6 +15,7 @@
 ##  Variáveis de Ambiente: Edição
 - As variáveis de ambiente permite que sistema operacional saiba onde estão localizados os executáveis dos programas instalados.
 - Quando o programa não inserir automaticamente o caminho do executável, tem-se que inserir manualmente.
+- A variável PATH indica onde estão os executáveis.
 
 Para criar uma variável de ambiente, deve-se abrir a caixa de Variáveis de Ambiente:
 ![variaveis_ambiente](./Imagens/variaveis_ambiente.png)"}
