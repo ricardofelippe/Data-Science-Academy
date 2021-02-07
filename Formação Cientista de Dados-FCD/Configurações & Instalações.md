@@ -23,7 +23,6 @@ Para criar uma variável de ambiente, deve-se abrir a caixa de Variáveis de Amb
  
  
 ## JDK
-
 JAVA_HOME = C:\Java\jdk-11.0.3  
 PATH = C:\Java\jdk-11.0.3\bin   
 - Ao inserir o PATH, a variável java tem q ser posicionada no topo da lista  
@@ -57,6 +56,16 @@ Abrir um prompt de comando e digitar: spark-shell
 ## Conexão Spark + Mongodb
 - Verificar se o pyspark está inicializando. Basta digitar pyspark no prompt de comando
 - Abrir um prompt de comando e digitar: pyspark --packages org.mongodb.spark:mongo-spark-connector_2.12:2.4.0
+
+
+# Troobleshooting
+Para iniciar o hdfs usar o comando: start-dfs.sh
+Para finalizar o hdfs usar o comando: stop-dfs.sh
+Para verificar arquivos de logs usar o comando cd /opt/hadoop/logs/ 
+Para limpar todos os arquivos em um diretório usar o comando rm -rf *
+Se a VM não funcionar, pode-se formatar o hdfds(isso exclui todos os arquivos): hdfs namenode -format
+Caso o problema persista, exclua o conteúdo da pasta hadoop-hadoop no diretório tmp (use cd /tmp/ para ir ao tmp)
+
 
 
 
