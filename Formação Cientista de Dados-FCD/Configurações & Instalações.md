@@ -59,8 +59,8 @@ Abrir um prompt de comando e digitar: spark-shell
 
 
 # Troobleshooting
-Para iniciar o hdfs usar o comando: start-dfs.sh
-Para finalizar o hdfs usar o comando: stop-dfs.sh
+- Para iniciar o hdfs usar o comando: start-dfs.sh 
+- Para finalizar o hdfs usar o comando: stop-dfs.sh 
 Para verificar arquivos de logs usar o comando cd /opt/hadoop/logs/ 
 Para limpar todos os arquivos em um diretório usar o comando rm -rf *
 Se a VM não funcionar, pode-se formatar o hdfds(isso exclui todos os arquivos): hdfs namenode -format
