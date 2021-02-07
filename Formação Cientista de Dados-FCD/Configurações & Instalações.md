@@ -47,6 +47,22 @@ https://drive.google.com/file/d/0B4PlPwU6yGTNT2FBdl9nTGNGOFk/view
 Crie o diretório C:\tmp\hive 
 Abra o prompt e digite: C:\Hadoop\bin\winutils.exe chmod -R 777 C:\tmp\hive 
 
+## Abrir o Spark no Windowns
+Abrir um prompt de comando e digitar: spark-shell
+
+## MongoDb
+- Verificar em serviços se o MongoDb está inicializado
+- Para iniciar, ir até a pasta bin do mongo. Nesse diretório, digitar mongo
+
+## Conexão Spark + Mongodb
+- Verificar se o pyspark está inicializando. Basta digitar pyspark no prompt de comando
+- Abrir um prompt de comando e digitar: pyspark --packages org.mongodb.spark:mongo-spark-connector_2.12:2.4.0
+
+
+
+
+
+
 - Caso queira experimentar o Linux em um ambiente Windows, uma possibilidade é instalar uma máquina virtual 
 [![78ad0e41-a781-4a99-abbb-172dcfd4a2f3.gif](https://i.postimg.cc/L6RgHc4d/78ad0e41-a781-4a99-abbb-172dcfd4a2f3.gif)](https://postimg.cc/14C3BYNM)
 
